@@ -1,0 +1,11 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif ;
+    color: aquamarine;
+    font-weight: 600
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: coral;
+    font-weight: 200
+}
+img{width: 120px;}
